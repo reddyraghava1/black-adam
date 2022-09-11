@@ -1,2 +1,2 @@
-# black-adam
-for learning
+# suresh-techs
+SureshTechs Websites
